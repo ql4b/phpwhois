@@ -4,10 +4,10 @@
     "license": "GPL",
     "authors": [
         {
-            "name": "Mark Jeftovic",
+            "name": "Mark Jeftovic"
         },
         {
-            "name": "David Saez",
+            "name": "David Saez"
         }
     ],
     "autoload": {
