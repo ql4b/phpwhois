@@ -1,0 +1,19 @@
+{
+    "name": "ql4b/phpwhois",
+    "description": "Symfony bundle to perform Seomoz Mozscape API queries",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Mark Jeftovic",
+        },
+        {
+            "name": "David Saez",
+        }
+    ],
+    "autoload": {
+        "classmap": ["ql4b/phpwhois/whois.main.php"]
+    },
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
