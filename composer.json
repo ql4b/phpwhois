@@ -1,6 +1,6 @@
 {
     "name": "ql4b/phpwhois",
-    "description": "Symfony bundle to perform Seomoz Mozscape API queries",
+    "description": "If you are a PHP coder, you can use these classes to incorporate whois lookup functionality into your websites.",
     "license": "GPL",
     "authors": [
         {
@@ -13,7 +13,5 @@
     "autoload": {
         "classmap": ["whois.main.php"]
     },
-    "minimum-stability": "stable",
-    "require": {
-    }
+    "minimum-stability": "stable"
 }
